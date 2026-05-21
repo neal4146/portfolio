@@ -34,6 +34,24 @@ Working on the controls sub-team for VT's humanoid robotics project. Focus is on
 -  simulation workflows in Isaac Lab
 - Testing reward function formulations and tweaking Berkley repo to match our current robot
 
+**The robot:**
+
+<p align="center">
+  <img src="images/robot.png" width="60%" />
+</p>
+
+**Subsystem breakdown — CAD:**
+
+<table>
+  <tr>
+    <td align="center"><img src="images/torso.png" width="100%" /><br/><sub>Torso</sub></td>
+    <td align="center"><img src="images/pelvis.png" width="100%" /><br/><sub>Pelvis</sub></td>
+    <td align="center"><img src="images/foot.png" width="100%" /><br/><sub>Foot</sub></td>
+  </tr>
+</table>
+
+**The team:**
+
 ![VT Humanoid Robotics team](images/HR_team.png)
 ---
 
