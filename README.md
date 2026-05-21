@@ -1,7 +1,7 @@
 # Neal Mehta — Portfolio
 
 > Mechanical Engineering @ Virginia Tech · CS minor · Junior
-> Robotics, autonomy, hardware/software intersection. 
+> <br>Robotics, autonomy, hardware/software intersection. 
 
 📫 [LinkedIn](www.linkedin.com/in/nealmehta12) · nealmehta2005@gmail.com
 
@@ -11,7 +11,7 @@
 
 *Code/CAD owned by the respective teams — writeups + my contributions below.*
 
-### ARGUS / NOMAD — Subsea Inspection ROV
+### ARGUS — Subsea Inspection ROV
 **Role:** CAD Lead · **Team:** ARGUS · **Tools:** SolidWorks, Siemens NX
 
 Designing and modeling subsystems for an underwater ROV built for subsea inspection. Currently leading CAD for the frame, pressure housing, thrusters, and buoyancy systems.
@@ -52,7 +52,9 @@ Working on the controls sub-team for VT's humanoid robotics project. Focus is on
 
 **The team:**
 
-![VT Humanoid Robotics team](images/HR_team.png)
+<p align="center">
+  <img src="images/HR_team.png" width="70%" />
+</p>
 ---
 
 ### SecurITe — ML/AI Security Intern (Summer 2026)
